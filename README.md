@@ -1,9 +1,9 @@
 # Application of Curriculum Learning in Deep Learning while finetuning transformer models (codeBERT)
 ## Bachelor Thesis (Mak Fazlic)
 
-📜 [Report can be seen here](report.pdf)
+📜 [Report can be found here](report.pdf)
 
-🖼️ [Poster is here](poster.pdf)
+🖼️ [Poster can be found here](poster.pdf)
 
 🚩 [CodeXGLUE baseline repository](https://github.com/microsoft/CodeXGLUE)
 
