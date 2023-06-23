@@ -1,7 +1,7 @@
 # Application of Curriculum Learning in Deep Learning while finetuning transformer models (codeBERT)
 ## Bachelor Thesis (Mak Fazlic)
 
-📜 [Report can be found here](report.pdf)
+📜 [Report can be found here](bachelor_thesis_report.pdf)
 
 🖼️ [Poster can be found here](poster.pdf)
 
