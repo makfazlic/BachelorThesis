@@ -1,4 +1,4 @@
-# Application of Curriculum Learning in Deep Learning while finetuning transformer models (codeBERT)
+# Experimenting with Curriculum Learning in Software Engineering with CodeBERT
 ## Bachelor Thesis (Mak Fazlic)
 
 📜 [Report can be found here](bachelor_thesis_report.pdf)
