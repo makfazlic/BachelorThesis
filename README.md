@@ -3,7 +3,7 @@
 
 📜 [Report can be found here](bachelor_thesis_report.pdf)
 
-🖼️ [Poster can be found here](poster.pdf)
+🖼️ [Poster can be found here](bachelor_thesis_poster.pdf)
 
 🚩 [CodeXGLUE baseline repository](https://github.com/microsoft/CodeXGLUE)
 
